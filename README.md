@@ -48,7 +48,7 @@ You can add, rename, or remove projects at any time.
 
 | Project | Description | Status | Link |
 |--------|-------------|--------|------|
-| **SDOH & Preventable Hospitalizations – West Virginia** | Exploratory analysis of Social Determinants of Health (SDOH) and preventable hospitalization patterns across WV counties. Includes data cleaning, visualizations, dashboard planning, and presentation narrative. | ✅ Completed | [View Project](data-analytics-externship-project/projects/sdoh_wv_preventable_hospitalizations_project) |
+| **SDOH & Preventable Hospitalizations – West Virginia** | Exploratory analysis of Social Determinants of Health (SDOH) and preventable hospitalization patterns across WV counties. Includes data cleaning, visualizations, dashboard planning, and presentation narrative. | ✅ Completed | [View Project](data-analytics-externship-project/projects/sdoh_wv_preventable_hospitalizations) |
 | **Project 2 (Placeholder)** | Add your next externship or analytics project here. | ⏳ Pending | `/projects/project_2_folder` |
 | **Project 3 (Placeholder)** | Additional projects coming soon. | ⏳ Pending | `/projects/project_3_folder` |
 
