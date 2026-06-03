@@ -7,30 +7,6 @@ This portfolio follows a **clean, modular structure** where each project is self
 
 ---
 
-# 📁 Folder Description
-
-```bash
-│
-├── README.md → This file (root overview)
-├── .gitignore
-│
-└── data-analytics-externship-project/
-├── projects/
-│ ├── sdoh_wv_preventable_hospitalizations_project/
-│ │ ├── data/
-│ │ │ ├── raw/
-│ │ │ ├── processed/
-│ │ ├── notebooks/
-│ │ ├── dashboard/
-│ │ │ └── dashboard_screenshots/
-│ │ ├── reports/
-│ │ └── docs/
-│ │
-│ └── (future projects here)
-│
-└── (top-level scripts or shared docs can go here)
-```
-
 Each project includes:
 - **Raw and processed datasets** (public-domain only)
 - **Jupyter/Colab notebooks**
@@ -48,8 +24,8 @@ You can add, rename, or remove projects at any time.
 
 | Project | Description | Status | Link |
 |--------|-------------|--------|------|
-| **SDOH & Preventable Hospitalizations – West Virginia** | Exploratory analysis of Social Determinants of Health (SDOH) and preventable hospitalization patterns across WV counties. Includes data cleaning, visualizations, dashboard planning, and presentation narrative. | ✅ Completed | [View Project](data-analytics-externship-project/projects/sdoh_wv_preventable_hospitalizations) |
-| **Project 2 (Placeholder)** | Add your next externship or analytics project here. | ⏳ Pending | `/projects/project_2_folder` |
+| **SDOH & Preventable Hospitalizations – West Virginia** | Healthcare analytics project examining relationships between Social Determinants of Health (SDOH) and preventable hospitalizations across 55 West Virginia counties. Includes exploratory data analysis, visualization, dashboard development, and healthcare data storytelling. | ✅ Completed | [View Project](https://github.com/evadataledger/sdoh-preventable-hospitalizations-wv) |
+| **Psychiatric Continuity Dashboard (Mental Health Care Coordination)** | Healthcare operations and process improvement project focused on psychiatric post-discharge continuity of care. Includes stakeholder analysis, workflow mapping, root cause analysis, decision-tree design, dashboard prototyping, role-based views, and change management planning. | ✅ Completed | [View Project](https://github.com/evadataledger/Extern.com-Process-Design-Strategy-Consulting) |
 | **Project 3 (Placeholder)** | Additional projects coming soon. | ⏳ Pending | `/projects/project_3_folder` |
 
 ---
