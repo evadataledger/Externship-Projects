@@ -26,7 +26,7 @@ You can add, rename, or remove projects at any time.
 |--------|-------------|--------|------|
 | **SDOH & Preventable Hospitalizations – West Virginia** | Healthcare analytics project examining relationships between Social Determinants of Health (SDOH) and preventable hospitalizations across 55 West Virginia counties. Includes exploratory data analysis, visualization, dashboard development, and healthcare data storytelling. | ✅ Completed | [View Project](https://github.com/evadataledger/sdoh-preventable-hospitalizations-wv) |
 | **Psychiatric Continuity Dashboard (Mental Health Care Coordination)** | Healthcare operations and process improvement project focused on psychiatric post-discharge continuity of care. Includes stakeholder analysis, workflow mapping, root cause analysis, decision-tree design, dashboard prototyping, role-based views, and change management planning. | ✅ Completed | [View Project](https://github.com/evadataledger/Extern.com-Process-Design-Strategy-Consulting) |
-| **Project 3 (Placeholder)** | Additional projects coming soon. | ⏳ Pending | `/projects/project_3_folder` |
+| **Future Healthcare Analytics Project** | Additional healthcare analytics, operations, or decision-support projects coming soon. | ⏳ Planned | Coming Soon |
 
 ---
 
